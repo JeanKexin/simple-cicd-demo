@@ -13,3 +13,7 @@ The integration process turned out seamless, it also conducted the test suite by
 
 ![cicd ](https://user-images.githubusercontent.com/53599718/136230625-ca20c4bb-f053-4ea1-bad7-7752781ca616.png)
 
+
+![cicd2](https://user-images.githubusercontent.com/53599718/136232978-ca6503ba-c820-4be8-958a-0472d0033476.png)
+
+
