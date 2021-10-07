@@ -2,6 +2,8 @@
 
 This is an interest compound calculator app with the aim of demonstrating a CI/CD flow.
 
+![calculator](https://user-images.githubusercontent.com/53599718/136305655-7b4fa16d-0735-42c9-9d82-3d5a0becb82c.png)
+
 To run the app:
 > node ./myapp/server.js
 
